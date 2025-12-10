@@ -32,4 +32,5 @@
 # Credentials
 
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e840fe14b2cd4c25b8b2e00ee17b431e#)
+
 [Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7FDBC48749604351B308C533CD7473F2D9F54FC40757DE8A63BAE604D9DAA3F)
